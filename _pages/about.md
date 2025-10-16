@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
 I am a Ph.D. candidate in Economics at the **National University of Singapore (NUS)**.  
