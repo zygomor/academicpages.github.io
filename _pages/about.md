@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zuo Yang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,25 +8,12 @@ redirect_from:
 ---
 
 I am a Ph.D. candidate in Economics at the **National University of Singapore (NUS)**.  
-My research focuses on **microeconomic theory**, especially **epistemic game theory**, **strategic reasoning**, and **rationalizability in finite models**.  
-I am broadly interested in how players form beliefs about others’ rationality and how such beliefs shape equilibrium behavior in dynamic and networked environments.
-
----
-
-### 🧠 Research Interests
-- Epistemic Game Theory  
-- Rationalizability and Common Knowledge  
-- Incomplete Information and Type Structures  
-- Networked Strategic Interaction  
-
 ---
 
 ### 📑 Working Papers
 
 **Rational Strategic Behavior in Finite Models**  
-This paper studies how rational behavior can be represented by *finite type structures* even in complex finite games.  
-We show that for any finite game, there exists a finite-richness model generating the same rationalizable strategies as the analytical one.  
-The Iterated Elimination of Never Best Responses (IENBR) and rationalizability procedures can be implemented by finite type structures.
+Rational behavior needs to be justified by rational beliefs (or types) in complex game situations. Such beliefs (or types) may be infinitely many, even in finite games. In this paper, we utilize the framework in Chen et al.\ (2015) to study rational behavior in game situations where players may have general preferences. First, we show that for any finite game there exists a finite-richness model that gives rise to the set of rationalizable strategies. Moreover, for any analytical model of a finite game, there exists a finite model that gives rise to the exact same rational behavior. In particular, the Iterated Elimination of Never Best Responses (IENBR) procedure in any type structure model can be implemented by a finite type structure model. Rationalizability procedure can also be implemented by a finite type structure model.
 
 **Backward Induction: A Characterization**  
 We provide a foundation for backward induction via **Common Knowledge of Future Rationality (CKFR)**.  
@@ -34,30 +21,8 @@ The paper shows that CKFR implies subgame rationalizability in dynamic games and
 An iterative procedure is proposed to characterize subgame rationalizability and demonstrate order independence.
 
 **Peer-Confirming Equilibrium with Multiple Networks**  
-Extending Lipnowski and Sadler (2019), this paper introduces *two layers of networks* — one for strategy knowledge and one for rationality knowledge.  
-A peer-confirming equilibrium requires players to best respond to beliefs consistent with both, correctly predict neighbors’ actions, and treat trusted peers as rational.  
-This framework provides a flexible language for modeling social and informational interdependence.
+We know close peers more accurately than complete strangers. Lipnowski and Sadler (2019) augment a game with a network to represent strategic information. We extend their framework by adding a network denoting  players’ knowledge about opponents’ rationality: if two players are linked in the network, they know each other’s rationality. Precisely, a finite game is paired with two undirected networks: a strategy-knowledge network listing whose strategies players know correctly, and a rationality-knowledge network listing whose rationality they are sure of.  A peer-confirming equilibrium with multiple networks requires each player to best respond to a belief consistent with these networks, to be correct about neighbors’ behavior, and to treat trusted neighbors as rational. For non-neighbors in the rationality-knowledge network, any strategies should be considered possible. This solution concept provides a useful language for studying various social situations.
 
----
 
-### 🧑‍🏫 Teaching
-**National University of Singapore**
-- EC6101 *Advanced Microeconomic Theory (Ph.D. Course)* – Spring 2024  
-- EC3303 *Financial Economics* – Fall 2022  
-- EC3342 *International Finance* – Spring 2023  
 
----
 
-### 🎓 Education
-- **Ph.D. in Economics**, NUS, 2020 – 2025  
-- **M.Sc. in Economics**, NUS, 2019 – 2020  
-- **B.A. in Economics**, Huazhong University of Science and Technology, 2014 – 2018  
-
----
-
-### 📬 Contact
-- **Email:** [zyang@u.nus.edu](mailto:zyang@u.nus.edu)  
-- **Office:** 1 Arts Link, AS1 01-02, Singapore 117570  
-- **GitHub:** [zygomor](https://github.com/zygomor)  
-
-_Last updated: October 2025_
