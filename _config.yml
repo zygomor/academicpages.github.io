@@ -26,9 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Zuo Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. Candidate in Economics, National University of Singapore"
+  location         : "Singapore"
   uri              : # URL
   email            : "zygomor@nus.edu.sg" 
 
@@ -230,6 +229,8 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  CV:
+    output: true
 
 
 # These settings control how pages and collections are included in the site
