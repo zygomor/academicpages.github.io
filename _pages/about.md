@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at the **National University of Singapore (NUS)**.  
+Nice to meet you!
 ---
 
+I am a Ph.D. candidate in Economics at the **National University of Singapore (NUS)**. My main research interests focuses on game theory and network games.
 ### 📑 Working Papers
 
 **Rational Strategic Behavior in Finite Models**  
