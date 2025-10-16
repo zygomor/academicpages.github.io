@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/zuo_yang.jpg"
+  avatar           : "zuo_yang.jpg"
   name             : "Zuo Yang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics (NUS)"
