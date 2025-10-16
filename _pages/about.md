@@ -18,7 +18,7 @@ I am a Ph.D. candidate in Economics at the **National University of Singapore (N
 
 
 ### **Rational Strategic Behavior in Finite Models** 
-*Abstract*
+# *Abstract*
 Rational behavior needs to be justified by rational beliefs (or types) in complex game situations. Such beliefs (or types) may be infinitely many, even in finite games. In this paper, we utilize the framework in Chen et al. (2015) to study rational behavior in game situations where players may have general preferences. First, we show that for any finite game there exists a finite-richness model that gives rise to the set of rationalizable strategies. Moreover, for any analytical model of a finite game, there exists a finite model that gives rise to the exact same rational behavior. In particular, the Iterated Elimination of Never Best Responses (IENBR) procedure in any type structure model can be implemented by a finite type structure model. Rationalizability procedure can also be implemented by a finite type structure model.
 <br>
 
